@@ -16,7 +16,7 @@ A simple Android application that showcases a **RecyclerView** with a list of du
 
 | Main Screen | Detail Screen |
 |-------------|--------------|
-| ![Main screen](images/main_screenshot.jpeg) | ![Detail screen](images/detail_screenshot.jpeg) |
+| ![Main screen](images/main_screenshoot.jpeg) | ![Detail screen](images/detail_screenshoot.jpeg) |
 
 ---
 
